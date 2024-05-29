@@ -1,0 +1,31 @@
+ul{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  background-color: #0037ff;
+  overflow: hidden;
+
+}
+li{
+  float: left;
+
+}
+li a{
+  padding: 20px;
+  color: blue;
+  display: block;
+  text-decoration: none;
+  font-family: Chilanka;
+  }
+h2{
+  text-align: center;
+  color: #003cff;
+}
+th,td{
+  border: 2px solid #0037ff;
+}
+table{
+  border-collapse: collapse;
+  width: 100%;
+}
+
